@@ -20,9 +20,9 @@ This is a simple and creative web application that converts uploaded images into
 
 ## 📸 Preview
 
-![Screenshot]("C:\Users\ASUS\Downloads\main page image.png") 
-![Screenshot]("C:\Users\ASUS\Downloads\original image.png") 
-![Screenshot]("C:\Users\ASUS\Downloads\result image.png") 
+![Screenshot]("main page image.png") 
+![Screenshot]("original image.png") 
+![Screenshot]("result image.png") 
 
 
 
