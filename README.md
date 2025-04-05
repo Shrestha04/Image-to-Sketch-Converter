@@ -41,7 +41,7 @@ This is a simple and creative web application that converts uploaded images into
 
 
 
-Made with ❤️ by Shrestha Jaiswal
+#Made with ❤️ by Shrestha Jaiswal
 
 
 
