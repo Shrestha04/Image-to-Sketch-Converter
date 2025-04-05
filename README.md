@@ -20,10 +20,9 @@ This is a simple and creative web application that converts uploaded images into
 
 ## 📸 Preview
 
-![Screenshot]("main page image.png") 
-![Screenshot]("original image.png") 
-![Screenshot]("result image.png") 
-
+![Preview](mainpageimage.png)
+![Preview](originalimage.png)
+![Preview]("resultimage.png")
 
 
 ## 🧠 How it Works
