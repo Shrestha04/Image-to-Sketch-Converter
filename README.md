@@ -40,8 +40,9 @@ This is a simple and creative web application that converts uploaded images into
 4. The sketch is returned to the frontend for viewing and download.
 
 
+--
 
-## Made with ❤️ by Shrestha Jaiswal
+# Made with ❤️ by Shrestha Jaiswal
 
 
 
